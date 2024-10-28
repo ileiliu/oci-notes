@@ -1,1 +1,1 @@
-* [hostname](./network/hostname.md)
+* [hostname](network/hostname.md)
