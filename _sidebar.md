@@ -1,1 +1,1 @@
-* [hostname](network/hostname.md "change the hostname of the instance")
+* [network/hostname](network/hostname.md "change the hostname of the instance")
